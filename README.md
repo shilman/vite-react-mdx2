@@ -1,6 +1,6 @@
 # vite-react-mdx2
 
-Repro for MDXv2 support.
+Repro for vite-builder MDXv2 support.
 
 Filed issue at: https://github.com/storybookjs/builder-vite/issues/375
 
